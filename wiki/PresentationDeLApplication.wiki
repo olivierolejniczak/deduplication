@@ -1,0 +1,1 @@
+http://mathieu.passenaud.free.fr/wiki/wakka.php?wiki=applicationdeduplication
