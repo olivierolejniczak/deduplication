@@ -1,0 +1,1 @@
+Réalisée pendant mon stage chez Silog, la déduplication vise à réduire l'espace de stockage sur de très gros volumes de données.
